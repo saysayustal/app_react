@@ -1,0 +1,15 @@
+.Navigation{
+    display: flex;
+    justify-content: space-between;
+  }
+  .Navigation > li{
+    list-style-type: none;
+    padding: 10px;
+  }.Navigation > li:hover{
+    list-style-type: none;
+    padding: 10px;
+    background-color: #8b2525;
+    font-size: 20px;
+    border-radius: 50%;
+    transition: 3s background-color, 2s border-radius, 3s font-size;
+  }
