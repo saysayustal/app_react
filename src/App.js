@@ -10,6 +10,8 @@ function App() {
       <Header />
       <Navigation />
       <Profile />
+      <Profile />
+      <Profile />
     </div>
   );
 }
