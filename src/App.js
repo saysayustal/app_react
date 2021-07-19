@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="app_wrapper">
       <Header />
-      
       <Navigation />
       <Profile />
     </div>
